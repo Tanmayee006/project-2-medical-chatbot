@@ -10,5 +10,5 @@ conda create -n medical-chatbot python=3.8 -y
 ```
 
 ```bash
-conda create -n medical-chatbot python=3.8 -y
+conda activate medical-chatbot
 ```
